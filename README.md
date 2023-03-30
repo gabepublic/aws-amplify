@@ -2,6 +2,9 @@
 
 AWS Amplify
 
+Related repo:
+- [aws-amplifyapp](https://github.com/gabepublic/aws-amplifyapp)
+
 ## AWS Docs
 
 - [AWS Amplify Documentation Homepage](https://docs.aws.amazon.com/amplify/index.html)
